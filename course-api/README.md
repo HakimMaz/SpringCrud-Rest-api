@@ -20,7 +20,7 @@ Once the project is imported , you have to run the project with the following co
   3- run as springboot application
  
  
-when the project is deployed so you can test with your browser : 
+when the project is deployed,you can test with your browser : 
   http://[your-server-adress]:port/topic   => get all the existing topics 
   http://[your-server-adress]:port/topic/{your-id} => get a specified topic with its id
   
